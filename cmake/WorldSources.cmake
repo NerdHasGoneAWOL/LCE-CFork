@@ -284,6 +284,7 @@ set(MINECRAFT_WORLD_SOURCES
   "FlippedIcon.cpp"
   "FloatBuffer.cpp"
   "FloatGoal.cpp"
+  "FloatingIslandFeature.cpp"
   "FlowerFeature.cpp"
   "FlowerPotTile.cpp"
   "FlyingMob.cpp"
